@@ -13,7 +13,6 @@ sections:
 - type: jekyll-pages
   label: Jekyll Pages
   create: all
-  match: "**/*"
 - type: directory
   path: ''
   label: Directory
