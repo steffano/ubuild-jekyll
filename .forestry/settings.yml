@@ -8,6 +8,17 @@ sections:
   path: FORESTRY-README.md
   label: Welcome - First Steps
   read_only: true
+- type: heading
+  label: Heading
+- type: jekyll-pages
+  label: Jekyll Pages
+  create: all
+  match: "**/*"
+- type: directory
+  path: ''
+  label: Directory
+  create: all
+  match: "**/*"
 - type: jekyll-posts
   label: Posts
   create: all
