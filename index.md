@@ -54,6 +54,6 @@ page_sections:
     create new sites and make them fully customizable.
 - template: simple-footer
   block: footer-1
-  content: Made with ❤︎ in Canada
+  content: "<strong>© steffano santiago chavez</strong>"
 
 ---
